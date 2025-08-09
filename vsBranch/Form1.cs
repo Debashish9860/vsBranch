@@ -14,7 +14,7 @@ namespace vsBranch
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Hello
+            MessageBox.Show("Helo");
         }
     }
 }
